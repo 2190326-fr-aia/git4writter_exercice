@@ -6,6 +6,6 @@ This is second line. + ajout sur seconde ligne.
 Fourth line added manually by a simulated user (done on Github GUI editor) :-)
 this is second line.
 
-this is the third.aaa
+this is the third.cccccc
 
 fourth line added manually by a simulated user (change done from remote location and shared via github) :-)
