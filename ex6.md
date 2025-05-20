@@ -1,3 +1,3 @@
 un fichier pour tester le renaming
 
-The toothbrush can speak seven different languages.
+The toothbrush can speak six different languages.
